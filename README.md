@@ -2,6 +2,24 @@
 
 A sophisticated, production-ready implementation of the classic "20 Questions" game using an Artificial Neural Network (ANN) approach based on a target-object × question weight matrix.
 
+## 🏆 Attribution and Inspiration
+
+This project is inspired by and pays homage to the groundbreaking work of **Robin Burgener** and the original **20Q** system. The 20Q concept revolutionized the classic "20 Questions" game by applying artificial intelligence to create an incredibly effective guessing engine.
+
+### The Original 20Q Legacy
+
+- **20Q Website & Handheld Devices**: The original 20Q (twenty-questions.com) and handheld electronic devices became cultural phenomena in the early 2000s, showcasing how AI could create engaging, seemingly "magical" user experiences.
+
+- **Robin Burgener**: The brilliant inventor and creator of the ANN-based 20Q system, who developed the core algorithms and neural network approach that made 20Q so remarkably effective at guessing what people were thinking.
+
+- **Patent Foundation**: This implementation draws inspiration from the methods described in **US Patent 20060230008A1** (*"Method and device for conducting a synthetic interview"*) by Robin Burgener, filed in 2005. This patent describes the fundamental ANN architecture using a weight matrix of objects vs. questions, which forms the theoretical foundation of effective automated questioning systems.
+
+### Historical Context
+
+The original 20Q system was revolutionary because it demonstrated that a relatively simple neural network architecture could achieve human-like intuition in a guessing game. By learning from millions of user interactions, the system developed an understanding of how different questions relate to different objects, creating an AI that seemed to "read minds." This project honors that innovation while providing a modern, extensible implementation of the core concepts.
+
+**Note**: This is an independent implementation created for educational and research purposes. We gratefully acknowledge the pioneering work of Robin Burgener and the original 20Q team.
+
 ## 🎯 Features
 
 - **Advanced ANN Architecture**: Uses a learned weight matrix to intelligently select questions and rank possible answers
@@ -129,6 +147,8 @@ The core uses a `(n_objects × n_questions)` weight matrix with two main modes:
 
 1. **Answer→Object Ranking**: Given answers, rank most likely objects
 2. **Object→Question Ranking**: Given top objects, find best discriminating question
+
+*This architecture is inspired by the methodologies described in [US Patent 20060230008A1](https://patents.google.com/patent/US20060230008A1) by Robin Burgener, which outlines the fundamental approach of using neural networks with object-question weight matrices for automated questioning systems.*
 
 ### Question Selection Strategies
 
@@ -277,7 +297,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Inspired by the classic 20 Questions game
+- **Robin Burgener**: For inventing the revolutionary ANN-based 20Q system and the foundational algorithms that made automated 20 Questions both possible and magical
+- **The Original 20Q Team**: For creating the website and handheld devices that brought AI-powered guessing games to millions of users worldwide
+- **Patent US20060230008A1**: For documenting the core neural network architecture and weight matrix methodology that forms the theoretical foundation of this implementation
+- **The 20Q Community**: For the millions of games played that demonstrated the power of crowd-sourced machine learning
+- **Open Source Community**: For the tools and libraries that make modern AI development accessible
+
+This project stands on the shoulders of giants - the pioneering work in AI game systems that showed how neural networks could create genuinely engaging user experiences.
 - Built with modern Python best practices
 - Uses advanced ML techniques for intelligent question selection
 
