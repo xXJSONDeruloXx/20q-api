@@ -1,0 +1,17 @@
+{
+  "objects": [
+    "Dog", "Cat", "Car", "Apple", "Lion", "Airplane", "Computer",
+    "Guitar", "Pizza", "Ocean", "Mountain", "Book", "Phone", "Tree",
+    "House", "Bicycle", "Coffee", "Moon", "Fire", "Ice", "Elephant",
+    "Butterfly", "Robot", "Cheese", "Diamond", "Hammer", "Flower",
+    "Cloud", "Snake", "Painting", "Boat", "Lamp", "Keyboard", "Shoe",
+    "Window", "Bridge", "Volcano", "Penguin", "Chocolate", "Mirror",
+    "Sword", "Pillow", "Clock", "Doorknob", "Candle", "Telescope",
+    "Dolphin", "Tornado", "Cake", "Umbrella", "Dinosaur", "Rocket",
+    "Newspaper", "Sunglasses", "Toothbrush", "Stapler", "Cactus",
+    "Helicopter", "Sandwich", "Lightbulb", "Zebra", "Microscope",
+    "Wallet", "Snowflake", "Compass", "Pencil", "Football", "Refrigerator",
+    "Butterfly", "Harmonica", "Lighthouse", "Mushroom", "Parachute",
+    "Skeleton", "Thermometer", "Windmill", "Yo-yo", "Zipper"
+  ]
+}

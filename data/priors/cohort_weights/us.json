@@ -1,0 +1,17 @@
+{
+  "id": "us",
+  "name": "United States",
+  "type": "geographic",
+  "description": "US-based demographic cohort",
+  "countries": [
+    "united states",
+    "usa",
+    "us"
+  ],
+  "regions": [
+    "north america"
+  ],
+  "languages": [
+    "english"
+  ]
+}

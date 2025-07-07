@@ -1,0 +1,8 @@
+{
+  "id": "young_adults",
+  "name": "Young Adults",
+  "type": "age",
+  "description": "Young adults (18-35)",
+  "age_min": 18,
+  "age_max": 35
+}

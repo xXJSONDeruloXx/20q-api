@@ -1,0 +1,24 @@
+{
+  "id": "eu",
+  "name": "Europe",
+  "type": "geographic",
+  "description": "European demographic cohort",
+  "countries": [
+    "germany",
+    "france",
+    "italy",
+    "spain",
+    "uk",
+    "netherlands"
+  ],
+  "regions": [
+    "europe"
+  ],
+  "languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "weights": [],
+  "shape": [75, 30],
+  "dtype": "float32",
+  "description": "Default weights for 20Q-ANN. Initialize with your own data."
+}

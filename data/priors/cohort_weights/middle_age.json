@@ -1,0 +1,8 @@
+{
+  "id": "middle_age",
+  "name": "Middle Age",
+  "type": "age",
+  "description": "Middle-aged adults (36-55)",
+  "age_min": 36,
+  "age_max": 55
+}

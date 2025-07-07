@@ -1,0 +1,23 @@
+{
+  "id": "asia",
+  "name": "Asia",
+  "type": "geographic",
+  "description": "Asian demographic cohort",
+  "countries": [
+    "japan",
+    "china",
+    "korea",
+    "india",
+    "singapore"
+  ],
+  "regions": [
+    "asia"
+  ],
+  "languages": [
+    "english",
+    "japanese",
+    "chinese",
+    "korean",
+    "hindi"
+  ]
+}

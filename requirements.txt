@@ -1,0 +1,17 @@
+# Core dependencies
+numpy>=1.21.0
+click>=8.0.0
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+
+# Optional API dependencies
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+mypy>=1.0.0
+flake8>=6.0.0
+black>=23.0.0
+isort>=5.0.0
